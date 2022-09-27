@@ -1,0 +1,8 @@
+{
+    "todos": [
+        
+        {"tasks": "debugging", "category":"school", "duedate":"27-02-2022"},
+        {"tasks": "debugging", "category":"school", "duedate":"27-02-2022"},
+        {"tasks": "debugging", "category":"school", "duedate":"27-02-2022"}
+    ]
+}
